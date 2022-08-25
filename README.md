@@ -1,4 +1,4 @@
-# Economic Growth Slides Introduction to Jupyter
+# Economic Growth Slides Introduction to Python
 ---
 
 Reveal.js slides for Economic Growth course from [Jupyter Notebook "Introduction to Python"](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Intro-Python.ipynb)
